@@ -129,5 +129,5 @@ dmypy.json
 .pyre/
 */validated_clean.tsv
 */validated.tsv
-*/*.json
+#*/*.json
 */validated_in.tsv
