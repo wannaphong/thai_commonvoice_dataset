@@ -127,7 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-*/validated_clean.tsv
-*/validated.tsv
+#*/validated_clean.tsv
+#*/validated.tsv
 #*/*.json
-*/validated_in.tsv
+#*/validated_in.tsv
