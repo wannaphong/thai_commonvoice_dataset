@@ -1,0 +1,5 @@
+pandas
+tqdm
+pythainlp==3.0.8
+librosa
+numpy
