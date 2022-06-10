@@ -1,6 +1,6 @@
 # Thai CommonVoice V8 labels
 
-This dataset was increase data from V7.
+It is increase new data from The Common Voice V8 dataset to Common Voice V7 dataset or remove all data in Common Voice V7 dataset before split Common Voice V8 then add CommonVoice V7 dataset back to dataset.
 
 ```
 finish create speaker dict
